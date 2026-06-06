@@ -58,3 +58,5 @@ body {
 /* commit 19: feat: implement window snapping to screen bounds */
 
 /* commit 21: fix: prevent window dragging outside screen boundaries */
+
+/* commit 22: feat: add window maximize toggle with restore state cache */
