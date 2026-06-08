@@ -64,3 +64,5 @@ body {
 /* commit 23: style: add active window drop shadow and focus ring */
 
 /* commit 24: feat: support minimize animation and taskbar minimization state */
+
+/* commit 25: refactor: extract window layout constants and constraints */
