@@ -104,3 +104,5 @@ body {
 /* commit 53: feat: add 'clear' command to reset terminal buffer */
 
 /* commit 54: feat: implement command history navigation with Up/Down arrow keys */
+
+/* commit 55: feat: add auto-scroll to bottom on terminal command execution */
