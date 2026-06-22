@@ -130,3 +130,5 @@ body {
 /* commit 68: feat: implement inline file renaming on double click */
 
 /* commit 69: style: add hover highlights and selection state for explorer items */
+
+/* commit 70: perf: virtualize file list in Explorer for large directory nodes */
