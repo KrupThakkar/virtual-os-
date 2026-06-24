@@ -144,3 +144,5 @@ body {
 /* commit 77: feat: support multi-tab file editing with dirty file indicators */
 
 /* commit 78: feat: implement file save action updating virtual filesystem */
+
+/* commit 79: feat: add keyboard shortcut Ctrl+S / Cmd+S to save current buffer */
