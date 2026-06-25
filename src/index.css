@@ -148,3 +148,5 @@ body {
 /* commit 79: feat: add keyboard shortcut Ctrl+S / Cmd+S to save current buffer */
 
 /* commit 80: feat: add line and column counters in editor status bar */
+
+/* commit 81: fix: resolve editor syntax highlighting for JSX files */
