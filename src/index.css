@@ -152,3 +152,5 @@ body {
 /* commit 81: fix: resolve editor syntax highlighting for JSX files */
 
 /* commit 85: style: style Safari navigation bar, URL input and tab strip */
+
+/* commit 86: feat: implement URL bar with search query parsing and address validation */
