@@ -172,3 +172,5 @@ body {
 /* commit 94: style: fix Safari scrollbar overlapping content on high-DPI displays */
 
 /* commit 96: fix: prevent browser iframe click from capturing global desktop mouse events */
+
+/* commit 98: feat: add Calculator math operations, decimal precision, and clear function */
