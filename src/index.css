@@ -188,3 +188,5 @@ body {
 /* commit 110: feat: add right-click context menu options for desktop customization */
 
 /* commit 111: perf: reduce re-renders in Desktop component with React.memo */
+
+/* commit 112: perf: debounce window resize handler for smooth 60fps rendering */
