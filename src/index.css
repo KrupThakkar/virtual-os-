@@ -194,3 +194,5 @@ body {
 /* commit 113: refactor: optimize window z-index layering and prevent stacking conflicts */
 
 /* commit 114: fix: prevent multiple instances of same app opening simultaneously */
+
+/* commit 115: fix: resolve window resize handle not working on touch devices */
